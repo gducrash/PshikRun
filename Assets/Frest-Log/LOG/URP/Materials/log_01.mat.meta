@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6fb021e53c74c87418a63a4839859d92
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 309231
+  packageName: Forest-Log
+  packageVersion: 1.0
+  assetPath: Assets/Frest-Log/LOG/URP/Materials/log_01.mat
+  uploadId: 727859
