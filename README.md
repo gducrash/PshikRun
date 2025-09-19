@@ -1,6 +1,9 @@
 # PshikRun
 This is a demo infinite runner project made in Unity. Please note that as of right now, it's very unfinished and is quite buggy.
 
+<img height="256" alt="image" src="https://github.com/user-attachments/assets/d0f23067-8ef2-47db-b5f3-25dd38e84fea" />
+
+
 ## How it works
 The game selects random chunks from the *inactive chunk pool* and moves them ahead of the player. When the player leaves the chunk, it gets transfered back to the pool. This optimization technique is called pooling and it saves a lot on CPU usage, as no new chunks get spawned at runtime.
 
